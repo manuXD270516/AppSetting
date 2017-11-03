@@ -20,7 +20,7 @@ public abstract class AppCompatPreferenceActivity extends PreferenceActivity {
 
     private AppCompatDelegate mDelegate;
 
-    // ultimo commit de prueba
+//saasas
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         getDelegate().installViewFactory();
